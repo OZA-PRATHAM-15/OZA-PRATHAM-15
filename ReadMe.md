@@ -16,4 +16,3 @@ I'm currently working on App developements and Devops
 [![](https://visitcount.itsvg.in/api?id=OZA-PRATHAM-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<iframe src="https://hackerrank-badge.herokuapp.com/OZA-PRATHAM-15" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
