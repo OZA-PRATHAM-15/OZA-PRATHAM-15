@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on App developements and Devops
+I'm currently working on App developement, Devops and Frameworks
 
 
 ## 🌐 Socials:
